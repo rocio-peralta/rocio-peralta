@@ -2,7 +2,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+<h1 align="center">Kia Ora I am Rocio</h1>
 
 - 🔭 I’m currently working on **having a solid foundation in my programing practice.**
 
